@@ -4,3 +4,7 @@ Have you ever used Advanced REST Client, or Edit & Resend in Firefox Developer T
 No? Oh...
 
 Well, anyway, think of this as an "Advanced REST Server" - one where you can say "why modify the backend, or intercept the request, or monitor the system, when I AM the backend!?" and laugh maniacally like some kind of evil silicon magician.
+
+## How to Run
+- Just `cargo run`!
+- If you're on WSL on Ubuntu 24, you'll need to run `unset WAYLAND_DISPLAY` to launch.
